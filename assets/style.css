@@ -15,7 +15,11 @@ body{
     flex-basis: calc(33%-6rem);
 }
 
-
+.cartao_conteudo {
+    text-align: center;
+    background-color: aquamarine;
+    height: 100%;
+}
 
 
 
